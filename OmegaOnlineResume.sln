@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OmegaOnlineResume", "OmegaOnlineResume\", "{399A5AE4-CD05-49BA-A258-98C83A4CDE7A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50537"
+		Debug.AspNetCompiler.PhysicalPath = "OmegaOnlineResume\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50537\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50537"
+		Release.AspNetCompiler.PhysicalPath = "OmegaOnlineResume\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50537\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50537"
+		SlnRelativePath = "OmegaOnlineResume\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399A5AE4-CD05-49BA-A258-98C83A4CDE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399A5AE4-CD05-49BA-A258-98C83A4CDE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F2D14C1-E107-4CB6-807E-7544CC4EF3F0}
+	EndGlobalSection
+EndGlobal
