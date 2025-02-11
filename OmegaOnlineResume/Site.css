@@ -3,7 +3,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 main {
-    background-color: steelblue; 
+    background-color: #0f4d90; 
     padding: 4px; 
     color: rgb(2, 14, 26);
     
@@ -30,7 +30,7 @@ header img {
     border: inset 1px;
     margin-bottom: 4px;
     padding: 4px;
-    background-color: whitesmoke;
+    background-color: #cfcfcf;
     color: #222;
 }
 
@@ -40,7 +40,7 @@ header img {
 
 footer {
     background-color: rgb(31, 30, 30);
-    color: lightsteelblue;
+    color: #6082b6;
     text-align: center;
     padding: 2px;
     position: fixed;
@@ -61,7 +61,7 @@ footer {
 }
 
 #menu li.active {
-    background-color: darkslateblue;
+    background-color: #0f8e90;
 
 }
 
