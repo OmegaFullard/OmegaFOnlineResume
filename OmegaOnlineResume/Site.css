@@ -5,7 +5,7 @@ body {
 main {
     background-color: #0f4d90; 
     padding: 4px; 
-    color: rgb(2, 14, 26);
+    color: rgb(228, 225, 225);
     
     grid-area: main;
 }
@@ -13,8 +13,12 @@ main {
 aside {
     grid-area: aside;
 }
-h1, h2 {
-    color:rgb(101, 53, 146);
+h1 {
+    color: rgb(110, 167, 224);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    color: rgb(101, 53, 146);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -34,13 +38,14 @@ header img {
     color: #222;
 }
 
-.experience .title {
-    font-weight: bold;
-}
+    .experience .title {
+        font-weight: bold;
+        color: rgb(101, 53, 146)
+    }
 
 footer {
-    background-color: rgb(31, 30, 30);
-    color: #6082b6;
+    background-color: #0f4d90;
+    color: rgb(110, 167, 224);
     text-align: center;
     padding: 2px;
     position: fixed;
@@ -60,10 +65,9 @@ footer {
     text-decoration: none;
 }
 
-#menu li.active {
-    background-color: #0f8e90;
-
-}
+    #menu li.active {
+        background-color: rgb(110, 167, 224);
+    }
 
 #menu {
     float: right;

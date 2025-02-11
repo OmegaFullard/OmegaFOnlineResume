@@ -1,17 +1,4 @@
-// index.js
-
-// var number = 5;
-//         let name = "Omega";
-
-//         number = 10;
-//         name = "PluralSight";
-
-//     // Writing to the document
-//     document.writeln(name + number);
-
-//         // document.writeln(number);
-//         document.writeln("Welcome to Omega's Resume");
-//         alert("Omega's Resume");
+        alert("Omega's Resume");
 
 let hasJob = true;
 if (hasJob) {
