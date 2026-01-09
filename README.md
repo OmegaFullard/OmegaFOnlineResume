@@ -17,7 +17,6 @@ This repository contains the source and assets for an online resume website. It'
 
 ## Structure 
 
-If your site is static:
 - index.html — main page
 - site.css/ — stylesheets
 - Images/ — images and screenshots
