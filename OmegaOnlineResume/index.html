@@ -93,32 +93,32 @@
             <br/>
         <aside>
             <h2>Contact Me</h2>
-            <form>
+            <form action="mailto:Omega.Fullard@gmail.com" method="post" enctype="text/plain">
                 <div> 
                     <label for="fullName">Full Name</label>
                 </div>
                 <div>
-                    <input id="fullName" type="text" /> </div>
+                    <input id="fullName" name="fullName" type="text" required /> </div>
                 <div>
                     <label for="email">Email</label> </div>
                 <div>  
-                    <input id="email" type="email" />
+                    <input id="email" name="email" type="email" required />
                 </div>
                 <div>
                     <label for="subject">Subject</label> </div>
                  
                 <div>
-                    <select id="subject">
+                    <select id="subject" name="subject">
                         <option>Job Offer</option>
                         <option>Personal Message</option>
                         
                     </select>
                 </div>
                 <div>
-                    <lbl for="msg">Message</lbl>
+                    <label for="msg">Message</label>
                 </div>
                 <div>
-                    <textarea id="msg" rows="8">Message</textarea>
+                    <textarea id="msg" name="message" rows="8" placeholder="Enter your message here..." required></textarea>
                 </div>
                 <div>
                     <input type="submit" value="Send Mail" />
