@@ -1,12 +1,12 @@
 #Online Resume for Omega Fullard
 
+![Headshot1](https://github.com/user-attachments/assets/51e6d7b4-9a68-433a-82c7-9329c1d080e8)
+
+## Overview
+
 A polished, easy-to-host online resume / portfolio for OmegaFullard.
 
 This repository contains the source and assets for an online resume website. It's designed to be simple to host (static HTML/CSS/JS) and easy to customize with your personal information, skills, projects, and contact details.
-
-## Quick preview
-
-Screenshots:
 
 ## Features
 
@@ -17,7 +17,6 @@ Screenshots:
 
 ## Structure 
 
-If your site is static:
 - index.html — main page
 - site.css/ — stylesheets
 - Images/ — images and screenshots
